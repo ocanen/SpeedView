@@ -22,7 +22,7 @@ Library Size just ~ 50 KB.
 
 # Download
 
-**add this line to** `build.gradle`
+**add this line to** `build.gradle` **into the section Module: app**
 
 ```gradle
 
